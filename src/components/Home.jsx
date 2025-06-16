@@ -192,7 +192,6 @@ function Home() {
         <p>
           GitHub:{" "}
           <a href="https://github.com/jjdolma" target="_blank" rel="noreferrer">
-            <github className="com" />
             ttshering
           </a>
         </p>
